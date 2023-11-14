@@ -1,0 +1,890 @@
+CRIMEID,DATE,CRIME_TYPE,LOCATION,NUMBER_OF_VICTIMS
+CID0035,2023-06-19,Robbery,Montego Bay,3.0
+CID0329,2023-05-17,Assault,Negril,4.0
+CID0857,2023-10-05,Burglary,Ocho Rios,3.0
+CID0434,2023-03-10,Homicide,Ocho Rios,3.0
+CID0323,2023-08-15,Burglary,Port Antonio,3.0
+CID0708,2023-11-08,Burglary,Ocho Rios,4.0
+CID0832,2023-11-28,Fraud,Negril,1.0
+CID0069,2023-12-18,Burglary,Montego Bay,5.0
+CID0118,2023-10-14,Fraud,Ocho Rios,2.0
+CID0317,2023-09-27,Fraud,Ocho Rios,3.0
+CID0662,2023-08-23,Fraud,Kingston,5.0
+CID0402,2023-10-18,Assault,Negril,3.0
+CID0399,2023-07-24,Homicide,Kingston,4.0
+CID0051,2023-09-24,Fraud,Kingston,1.0
+CID0104,2023-10-11,Robbery,Negril,3.0
+CID0458,2023-08-23,Burglary,Port Antonio,3.0
+CID0048,2023-11-21,Homicide,Negril,2.0
+CID0597,2023-07-21,Fraud,Negril,4.0
+CID0058,2023-01-08,Fraud,Ocho Rios,2.0
+CID0426,2023-11-04,Homicide,Port Antonio,2.0
+CID0898,2023-03-22,Burglary,Ocho Rios,1.0
+CID0786,2023-08-23,Assault,Montego Bay,4.0
+CID0676,2023-05-11,Burglary,Port Antonio,2.0
+CID0347,2023-02-25,Homicide,Port Antonio,1.0
+CID0062,2023-04-19,Homicide,Port Antonio,4.0
+CID0571,2023-03-03,Homicide,Kingston,4.0
+CID0867,2023-12-04,Burglary,Ocho Rios,3.0
+CID0590,2023-11-27,Fraud,Kingston,2.0
+CID0737,2023-08-27,Fraud,Montego Bay,2.0
+CID0363,2023-08-15,Assault,Montego Bay,3.0
+CID0319,2023-05-07,Homicide,Montego Bay,2.0
+CID0577,2023-08-23,Assault,Montego Bay,3.0
+CID0766,2023-04-28,Assault,Ocho Rios,4.0
+CID0522,2023-03-21,Burglary,Port Antonio,1.0
+CID0379,2023-07-14,Fraud,Montego Bay,1.0
+CID0988,2023-08-03,Burglary,Montego Bay,4.0
+CID0215,2023-05-06,Robbery,Montego Bay,1.0
+CID0134,2023-04-03,Fraud,Montego Bay,4.0
+CID0675,2023-02-16,Burglary,Ocho Rios,1.0
+CID0509,2023-12-16,Robbery,Kingston,4.0
+CID0932,2023-11-03,Assault,Kingston,3.0
+CID0337,2023-04-16,Homicide,Negril,4.0
+CID0024,2023-06-04,Burglary,Ocho Rios,5.0
+CID0723,2023-05-07,Robbery,Ocho Rios,5.0
+CID0921,2023-01-03,Burglary,Ocho Rios,5.0
+CID0513,2023-05-04,Robbery,Negril,1.0
+CID0441,2023-12-27,Robbery,Ocho Rios,2.0
+CID0731,2023-11-13,Burglary,Port Antonio,2.0
+CID0244,2023-03-18,Burglary,Port Antonio,3.0
+CID0631,2023-02-08,Fraud,Ocho Rios,4.0
+CID0255,2023-09-28,Burglary,Port Antonio,2.0
+CID0887,2023-09-18,Robbery,Port Antonio,2.0
+CID0046,2023-04-22,Robbery,Ocho Rios,2.0
+CID0245,2023-01-27,Fraud,Port Antonio,4.0
+CID0132,2023-02-23,Fraud,Port Antonio,4.0
+CID0727,2023-10-12,Burglary,Ocho Rios,2.0
+CID0689,2023-11-10,Assault,Negril,5.0
+CID0158,2023-03-14,Homicide,Negril,4.0
+CID0231,2023-05-17,Homicide,Montego Bay,2.0
+CID0089,2023-05-25,Robbery,Montego Bay,3.0
+CID0638,2023-08-16,Robbery,Ocho Rios,4.0
+CID0288,2023-10-14,Fraud,Kingston,5.0
+CID0320,2023-07-26,Assault,Negril,4.0
+CID0848,2023-11-17,Homicide,Port Antonio,5.0
+CID0661,2023-06-24,Burglary,Montego Bay,3.0
+CID0976,2023-07-17,Assault,Ocho Rios,3.0
+CID0619,2023-08-25,Assault,Negril,1.0
+CID0618,2023-08-21,Burglary,Montego Bay,3.0
+CID0267,2023-03-26,Homicide,Negril,4.0
+CID0602,2023-02-28,Burglary,Port Antonio,3.0
+CID0261,2023-01-06,Homicide,Kingston,2.0
+CID0137,2023-09-08,Robbery,Montego Bay,3.0
+CID0395,2023-05-14,Assault,Ocho Rios,3.0
+CID0729,2023-12-10,Burglary,Ocho Rios,5.0
+CID0290,2023-06-14,Fraud,Ocho Rios,1.0
+CID0039,2023-05-03,Fraud,Negril,4.0
+CID0764,2023-02-15,Fraud,Kingston,4.0
+CID0949,2023-03-25,Burglary,Port Antonio,4.0
+CID0335,2023-04-05,Homicide,Port Antonio,1.0
+CID0295,2023-12-14,Assault,Port Antonio,5.0
+CID0554,2023-02-06,Fraud,Ocho Rios,1.0
+CID0825,2023-04-11,Fraud,Montego Bay,3.0
+CID0321,2023-10-20,Fraud,Kingston,2.0
+CID0831,2023-03-04,Burglary,Port Antonio,2.0
+CID0613,2023-01-22,Assault,Ocho Rios,1.0
+CID0240,2023-09-23,Burglary,Negril,3.0
+CID0187,2023-01-17,Burglary,Montego Bay,5.0
+CID0155,2023-02-08,Assault,Port Antonio,3.0
+CID0672,2023-01-24,Fraud,Negril,4.0
+CID0710,2023-03-08,Robbery,Montego Bay,1.0
+CID0838,2023-01-05,Robbery,Ocho Rios,3.0
+CID0608,2023-08-03,Homicide,Port Antonio,5.0
+CID0012,2023-10-01,Homicide,Kingston,3.0
+CID0530,2023-02-13,Robbery,Port Antonio,1.0
+CID0611,2023-07-28,Burglary,Montego Bay,1.0
+CID0117,2023-05-17,Fraud,Montego Bay,3.0
+CID0266,2023-04-09,Homicide,Montego Bay,2.0
+CID0338,2023-10-28,Assault,Port Antonio,3.0
+CID0029,2023-01-24,Fraud,Port Antonio,4.0
+CID0802,2023-08-20,Robbery,Ocho Rios,2.0
+CID0885,2023-03-18,Robbery,Negril,5.0
+CID0817,2023-10-01,Fraud,Port Antonio,4.0
+CID0864,2023-05-15,Assault,Ocho Rios,4.0
+CID0277,2023-04-13,Homicide,Ocho Rios,2.0
+CID0040,2023-04-28,Robbery,Negril,5.0
+CID0292,2023-02-13,Burglary,Montego Bay,3.0
+CID0774,2023-06-22,Robbery,Negril,4.0
+CID0528,2023-01-09,Burglary,Montego Bay,4.0
+CID0605,2023-08-10,Burglary,Port Antonio,3.0
+CID0190,2023-10-03,Homicide,Kingston,1.0
+CID0250,2023-06-26,Homicide,Negril,1.0
+CID0777,2023-07-27,Robbery,Montego Bay,1.0
+CID0946,2023-10-02,Homicide,Port Antonio,3.0
+CID0680,2023-06-28,Assault,Port Antonio,3.0
+CID0685,2023-08-28,Assault,Negril,4.0
+CID0749,2023-05-26,Assault,Kingston,1.0
+CID0372,2023-05-11,Robbery,Port Antonio,2.0
+CID0192,2023-04-13,Assault,Montego Bay,2.0
+CID0251,2023-01-12,Homicide,Kingston,5.0
+CID0958,2023-11-26,Burglary,Ocho Rios,4.0
+CID0160,2023-08-08,Assault,Port Antonio,4.0
+CID0001,2023-11-04,Burglary,Port Antonio,5.0
+CID0620,2023-01-07,Burglary,Port Antonio,4.0
+CID0683,2023-06-21,Robbery,Ocho Rios,2.0
+CID0527,2023-06-06,Robbery,Montego Bay,2.0
+CID0126,2023-02-08,Robbery,Negril,1.0
+CID0859,2023-05-20,Assault,Negril,2.0
+CID0500,2023-12-15,Fraud,Kingston,3.0
+CID0356,2023-09-18,Burglary,Negril,1.0
+CID0144,2023-08-26,Robbery,Kingston,4.0
+CID0648,2023-12-10,Homicide,Negril,4.0
+CID0003,2023-05-08,Robbery,Negril,5.0
+CID0174,2023-07-23,Assault,Kingston,2.0
+CID0606,2023-11-13,Fraud,Montego Bay,3.0
+CID0435,2023-02-19,Assault,Negril,2.0
+CID0140,2023-09-05,Burglary,Ocho Rios,3.0
+CID0389,2023-07-28,Fraud,Kingston,1.0
+CID0094,2023-12-24,Robbery,Ocho Rios,1.0
+CID0753,2023-02-10,Robbery,Ocho Rios,4.0
+CID0610,2023-06-04,Homicide,Kingston,1.0
+CID0682,2023-09-13,Burglary,Ocho Rios,5.0
+CID0569,2023-04-21,Assault,Montego Bay,5.0
+CID0327,2023-12-06,Robbery,Port Antonio,3.0
+CID0233,2023-01-03,Fraud,Ocho Rios,1.0
+CID0223,2023-03-09,Homicide,Ocho Rios,4.0
+CID0705,2023-03-03,Robbery,Port Antonio,2.0
+CID0779,2023-02-22,Homicide,Negril,4.0
+CID0747,2023-02-21,Homicide,Negril,4.0
+CID0758,2023-09-17,Robbery,Ocho Rios,2.0
+CID0073,2023-07-12,Assault,Ocho Rios,5.0
+CID0038,2023-11-08,Homicide,Port Antonio,2.0
+CID0925,2023-06-06,Assault,Montego Bay,2.0
+CID0601,2023-06-22,Assault,Port Antonio,2.0
+CID0052,2023-04-06,Assault,Negril,4.0
+CID0539,2023-10-26,Robbery,Port Antonio,1.0
+CID0305,2023-02-24,Burglary,Port Antonio,5.0
+CID0470,2023-08-08,Fraud,Montego Bay,1.0
+CID0624,2023-08-04,Robbery,Montego Bay,5.0
+CID0578,2023-05-23,Burglary,Ocho Rios,5.0
+CID0059,2023-01-26,Assault,Kingston,2.0
+CID0501,2023-05-10,Fraud,Ocho Rios,5.0
+CID0483,2023-02-08,Fraud,Negril,1.0
+CID0930,2023-03-06,Homicide,Montego Bay,2.0
+CID0438,2023-07-13,Fraud,Ocho Rios,2.0
+CID0879,2023-11-16,Robbery,Montego Bay,1.0
+CID0169,2023-07-02,Fraud,Ocho Rios,5.0
+CID0081,2023-10-03,Burglary,Ocho Rios,3.0
+CID0962,2023-07-01,Robbery,Kingston,3.0
+CID0342,2023-12-23,Assault,Kingston,2.0
+CID0465,2023-07-27,Burglary,Kingston,2.0
+CID0819,2023-06-08,Burglary,Ocho Rios,4.0
+CID0656,2023-08-11,Homicide,Montego Bay,3.0
+CID0175,2023-12-26,Assault,Negril,2.0
+CID0974,2023-02-08,Burglary,Negril,1.0
+CID0599,2023-08-12,Homicide,Kingston,1.0
+CID0982,2023-09-21,Assault,Montego Bay,2.0
+CID0393,2023-10-08,Fraud,Negril,3.0
+CID0485,2023-08-18,Assault,Ocho Rios,4.0
+CID0097,2023-02-28,Fraud,Port Antonio,4.0
+CID0043,2023-11-27,Fraud,Ocho Rios,4.0
+CID0795,2023-06-22,Assault,Negril,4.0
+CID0531,2023-08-03,Homicide,Kingston,1.0
+CID0791,2023-08-04,Robbery,Montego Bay,4.0
+CID0901,2023-09-12,Assault,Montego Bay,1.0
+CID0781,2023-01-20,Robbery,Port Antonio,3.0
+CID0002,2023-01-24,Burglary,Negril,5.0
+CID0893,2023-12-02,Assault,Negril,1.0
+CID0045,2023-06-12,Burglary,Montego Bay,5.0
+CID0298,2023-12-24,Fraud,Port Antonio,3.0
+CID0331,2023-10-11,Fraud,Ocho Rios,4.0
+CID0484,2023-12-14,Assault,Port Antonio,1.0
+CID0985,2023-12-06,Assault,Negril,1.0
+CID0617,2023-06-20,Assault,Negril,5.0
+CID0836,2023-06-01,Fraud,Kingston,4.0
+CID0912,2023-01-06,Fraud,Montego Bay,3.0
+CID0935,2023-08-20,Assault,Negril,3.0
+CID0294,2023-05-02,Burglary,Montego Bay,1.0
+CID0364,2023-05-25,Fraud,Port Antonio,3.0
+CID0627,2023-04-23,Assault,Kingston,3.0
+CID0778,2023-11-12,Fraud,Montego Bay,5.0
+CID0721,2023-12-09,Fraud,Montego Bay,3.0
+CID0315,2023-10-19,Assault,Ocho Rios,2.0
+CID0492,2023-07-23,Burglary,Kingston,4.0
+CID0688,2023-04-21,Assault,Negril,2.0
+CID0938,2023-09-04,Robbery,Ocho Rios,5.0
+CID0960,2023-07-28,Burglary,Montego Bay,3.0
+CID0529,2023-08-04,Fraud,Port Antonio,3.0
+CID0575,2023-10-10,Burglary,Port Antonio,5.0
+CID0604,2023-07-23,Fraud,Ocho Rios,3.0
+CID0965,2023-07-19,Fraud,Ocho Rios,3.0
+CID0007,2023-09-03,Fraud,Montego Bay,3.0
+CID0846,2023-04-20,Robbery,Montego Bay,5.0
+CID0950,2023-05-10,Robbery,Ocho Rios,4.0
+CID0752,2023-12-05,Assault,Negril,4.0
+CID0371,2023-05-08,Homicide,Kingston,2.0
+CID0881,2023-02-03,Fraud,Montego Bay,5.0
+CID0886,2023-01-19,Fraud,Montego Bay,2.0
+CID0325,2023-04-17,Robbery,Kingston,1.0
+CID0843,2023-06-17,Fraud,Port Antonio,5.0
+CID0491,2023-05-08,Robbery,Ocho Rios,4.0
+CID0114,2023-03-05,Burglary,Kingston,1.0
+CID0163,2023-01-21,Homicide,Ocho Rios,1.0
+CID0154,2023-12-11,Homicide,Negril,3.0
+CID0328,2023-11-03,Assault,Port Antonio,5.0
+CID0378,2023-04-03,Assault,Kingston,3.0
+CID0443,2023-02-23,Assault,Negril,5.0
+CID0644,2023-02-09,Homicide,Kingston,4.0
+CID0650,2023-11-16,Assault,Ocho Rios,5.0
+CID0259,2023-03-26,Burglary,Ocho Rios,5.0
+CID0687,2023-10-03,Homicide,Kingston,2.0
+CID0573,2023-05-20,Fraud,Kingston,1.0
+CID0534,2023-03-05,Burglary,Ocho Rios,3.0
+CID0767,2023-11-24,Robbery,Kingston,2.0
+CID0677,2023-10-23,Robbery,Port Antonio,5.0
+CID0314,2023-12-06,Homicide,Port Antonio,2.0
+CID0076,2023-02-25,Assault,Port Antonio,2.0
+CID0852,2023-07-14,Fraud,Ocho Rios,2.0
+CID0798,2023-10-24,Burglary,Negril,5.0
+CID0182,2023-01-24,Robbery,Port Antonio,3.0
+CID0150,2023-12-02,Assault,Ocho Rios,3.0
+CID0222,2023-11-04,Assault,Ocho Rios,5.0
+CID0903,2023-05-19,Homicide,Ocho Rios,4.0
+CID0042,2023-05-15,Burglary,Ocho Rios,5.0
+CID0856,2023-02-11,Fraud,Port Antonio,4.0
+CID0122,2023-05-13,Assault,Kingston,5.0
+CID0607,2023-09-02,Robbery,Ocho Rios,5.0
+CID0457,2023-11-27,Homicide,Port Antonio,1.0
+CID0567,2023-04-14,Fraud,Kingston,2.0
+CID0225,2023-12-18,Robbery,Kingston,2.0
+CID0669,2023-02-28,Assault,Montego Bay,4.0
+CID0516,2023-03-10,Burglary,Montego Bay,1.0
+CID0165,2023-01-03,Assault,Ocho Rios,2.0
+CID0495,2023-06-16,Assault,Negril,1.0
+CID0285,2023-05-06,Robbery,Ocho Rios,5.0
+CID0120,2023-12-23,Fraud,Montego Bay,3.0
+CID0034,2023-11-20,Fraud,Ocho Rios,3.0
+CID0205,2023-11-10,Homicide,Kingston,3.0
+CID0229,2023-06-07,Fraud,Montego Bay,4.0
+CID0542,2023-08-15,Assault,Kingston,4.0
+CID0178,2023-03-07,Assault,Kingston,3.0
+CID0194,2023-04-19,Homicide,Negril,4.0
+CID0971,2023-10-15,Assault,Ocho Rios,2.0
+CID0019,2023-01-25,Robbery,Port Antonio,4.0
+CID0841,2023-12-03,Burglary,Kingston,4.0
+CID0025,2023-02-13,Burglary,Ocho Rios,1.0
+CID0840,2023-09-04,Fraud,Negril,5.0
+CID0511,2023-10-25,Burglary,Ocho Rios,5.0
+CID0220,2023-01-22,Burglary,Ocho Rios,4.0
+CID0050,2023-11-06,Homicide,Negril,4.0
+CID0211,2023-04-17,Robbery,Negril,3.0
+CID0931,2023-10-02,Burglary,Montego Bay,4.0
+CID0386,2023-10-13,Fraud,Kingston,4.0
+CID0415,2023-02-16,Robbery,Kingston,5.0
+CID0284,2023-01-04,Homicide,Port Antonio,1.0
+CID0157,2023-09-15,Robbery,Montego Bay,4.0
+CID0243,2023-02-23,Fraud,Ocho Rios,3.0
+CID0404,2023-10-19,Robbery,Negril,2.0
+CID0741,2023-11-07,Fraud,Negril,3.0
+CID0168,2023-08-07,Assault,Montego Bay,3.0
+CID0016,2023-07-08,Homicide,Montego Bay,4.0
+CID0452,2023-11-11,Assault,Kingston,3.0
+CID0129,2023-10-18,Burglary,Negril,4.0
+CID0603,2023-03-11,Homicide,Port Antonio,5.0
+CID0775,2023-12-22,Robbery,Negril,3.0
+CID0818,2023-01-26,Assault,Montego Bay,3.0
+CID0835,2023-04-19,Assault,Ocho Rios,5.0
+CID0828,2023-05-28,Burglary,Kingston,5.0
+CID0978,2023-05-24,Homicide,Montego Bay,5.0
+CID0866,2023-07-04,Robbery,Ocho Rios,3.0
+CID0009,2023-01-01,Burglary,Negril,2.0
+CID0541,2023-09-13,Robbery,Montego Bay,1.0
+CID0301,2023-07-03,Homicide,Ocho Rios,5.0
+CID0084,2023-09-09,Assault,Montego Bay,2.0
+CID0849,2023-05-15,Burglary,Kingston,4.0
+CID0660,2023-07-02,Fraud,Ocho Rios,1.0
+CID0655,2023-09-13,Assault,Ocho Rios,4.0
+CID0279,2023-02-25,Assault,Kingston,5.0
+CID0110,2023-02-24,Burglary,Negril,2.0
+CID0345,2023-03-21,Assault,Ocho Rios,2.0
+CID0951,2023-06-04,Homicide,Kingston,2.0
+CID0057,2023-06-27,Homicide,Negril,5.0
+CID0274,2023-05-27,Homicide,Negril,2.0
+CID0101,2023-03-12,Robbery,Port Antonio,4.0
+CID0360,2023-07-27,Burglary,Kingston,2.0
+CID0286,2023-10-09,Homicide,Port Antonio,3.0
+CID0558,2023-05-02,Assault,Ocho Rios,5.0
+CID0060,2023-06-13,Fraud,Montego Bay,1.0
+CID0724,2023-07-28,Fraud,Negril,5.0
+CID0109,2023-10-03,Robbery,Port Antonio,4.0
+CID0377,2023-03-23,Homicide,Montego Bay,1.0
+CID0533,2023-11-02,Burglary,Port Antonio,3.0
+CID0743,2023-11-25,Burglary,Ocho Rios,4.0
+CID0750,2023-08-02,Assault,Port Antonio,4.0
+CID0241,2023-07-18,Fraud,Port Antonio,5.0
+CID0821,2023-10-07,Robbery,Negril,1.0
+CID0587,2023-04-22,Assault,Ocho Rios,2.0
+CID0397,2023-07-11,Fraud,Port Antonio,3.0
+CID0448,2023-01-12,Homicide,Negril,5.0
+CID0564,2023-05-26,Burglary,Port Antonio,1.0
+CID0131,2023-04-01,Fraud,Kingston,4.0
+CID0499,2023-06-12,Burglary,Ocho Rios,3.0
+CID0318,2023-01-10,Assault,Kingston,2.0
+CID0692,2023-02-25,Homicide,Ocho Rios,1.0
+CID0026,2023-02-12,Robbery,Montego Bay,4.0
+CID0490,2023-01-03,Homicide,Negril,5.0
+CID0548,2023-02-25,Robbery,Ocho Rios,1.0
+CID0799,2023-12-05,Assault,Negril,5.0
+CID0742,2023-10-09,Robbery,Port Antonio,1.0
+CID0977,2023-02-13,Assault,Port Antonio,3.0
+CID0927,2023-12-11,Assault,Ocho Rios,3.0
+CID0984,2023-07-09,Robbery,Montego Bay,3.0
+CID0135,2023-01-28,Homicide,Ocho Rios,4.0
+CID0313,2023-07-22,Robbery,Ocho Rios,4.0
+CID0863,2023-10-17,Robbery,Port Antonio,5.0
+CID0063,2023-12-11,Fraud,Kingston,2.0
+CID0304,2023-11-28,Assault,Port Antonio,3.0
+CID0366,2023-11-09,Homicide,Kingston,1.0
+CID0582,2023-02-20,Fraud,Port Antonio,3.0
+CID0673,2023-03-14,Fraud,Negril,3.0
+CID0809,2023-11-12,Assault,Negril,2.0
+CID0961,2023-12-02,Burglary,Ocho Rios,4.0
+CID0480,2023-12-09,Robbery,Negril,5.0
+CID0361,2023-09-15,Burglary,Montego Bay,4.0
+CID0281,2023-11-17,Fraud,Montego Bay,5.0
+CID0715,2023-08-10,Fraud,Port Antonio,1.0
+CID0966,2023-07-23,Fraud,Kingston,4.0
+CID0538,2023-07-20,Homicide,Ocho Rios,3.0
+CID0257,2023-12-05,Fraud,Kingston,3.0
+CID0664,2023-11-26,Homicide,Port Antonio,4.0
+CID0718,2023-08-12,Homicide,Port Antonio,3.0
+CID0808,2023-06-04,Homicide,Port Antonio,4.0
+CID0098,2023-11-10,Robbery,Ocho Rios,2.0
+CID0636,2023-09-23,Fraud,Montego Bay,5.0
+CID0032,2023-02-18,Assault,Kingston,1.0
+CID0616,2023-04-17,Robbery,Kingston,5.0
+CID0878,2023-06-05,Assault,Kingston,5.0
+CID0253,2023-04-22,Robbery,Ocho Rios,3.0
+CID0204,2023-03-22,Homicide,Kingston,5.0
+CID0535,2023-10-10,Fraud,Negril,5.0
+CID0093,2023-08-01,Assault,Negril,4.0
+CID0463,2023-09-25,Fraud,Port Antonio,5.0
+CID0065,2023-08-13,Fraud,Port Antonio,1.0
+CID0512,2023-09-20,Robbery,Port Antonio,4.0
+CID0671,2023-09-15,Burglary,Kingston,1.0
+CID0532,2023-10-21,Fraud,Montego Bay,3.0
+CID0209,2023-10-04,Assault,Montego Bay,1.0
+CID0473,2023-07-11,Assault,Ocho Rios,5.0
+CID0598,2023-08-03,Burglary,Port Antonio,2.0
+CID0679,2023-02-28,Fraud,Negril,3.0
+CID0407,2023-07-05,Fraud,Kingston,4.0
+CID0308,2023-07-11,Fraud,Montego Bay,3.0
+CID0796,2023-12-23,Assault,Ocho Rios,2.0
+CID0425,2023-03-16,Burglary,Port Antonio,1.0
+CID0851,2023-01-16,Homicide,Ocho Rios,3.0
+CID0964,2023-06-19,Robbery,Negril,4.0
+CID0424,2023-03-08,Homicide,Port Antonio,1.0
+CID0246,2023-06-19,Fraud,Montego Bay,3.0
+CID0761,2023-08-26,Robbery,Ocho Rios,4.0
+CID0201,2023-11-23,Robbery,Kingston,3.0
+CID0127,2023-04-03,Assault,Montego Bay,2.0
+CID0139,2023-08-07,Burglary,Port Antonio,1.0
+CID0952,2023-01-16,Homicide,Negril,3.0
+CID0987,2023-11-27,Homicide,Ocho Rios,3.0
+CID0609,2023-06-09,Homicide,Ocho Rios,4.0
+CID0697,2023-01-11,Fraud,Montego Bay,4.0
+CID0417,2023-09-02,Assault,Port Antonio,5.0
+CID0461,2023-09-21,Homicide,Port Antonio,5.0
+CID0553,2023-03-18,Homicide,Negril,4.0
+CID0459,2023-03-14,Homicide,Montego Bay,1.0
+CID0102,2023-03-18,Assault,Negril,5.0
+CID0678,2023-07-21,Fraud,Port Antonio,5.0
+CID0112,2023-02-25,Robbery,Negril,2.0
+CID0728,2023-10-10,Burglary,Ocho Rios,2.0
+CID0373,2023-06-18,Robbery,Kingston,1.0
+CID0549,2023-04-21,Fraud,Negril,5.0
+CID0022,2023-05-05,Homicide,Montego Bay,4.0
+CID0588,2023-10-19,Burglary,Ocho Rios,3.0
+CID0889,2023-02-14,Fraud,Negril,3.0
+CID0392,2023-09-26,Robbery,Port Antonio,3.0
+CID0409,2023-01-09,Assault,Ocho Rios,4.0
+CID0623,2023-08-23,Burglary,Montego Bay,3.0
+CID0521,2023-05-23,Fraud,Negril,2.0
+CID0914,2023-05-11,Assault,Ocho Rios,3.0
+CID0105,2023-08-01,Burglary,Negril,5.0
+CID0444,2023-05-28,Fraud,Ocho Rios,2.0
+CID0546,2023-10-02,Burglary,Kingston,2.0
+CID0812,2023-07-09,Homicide,Port Antonio,1.0
+CID0041,2023-02-13,Assault,Negril,5.0
+CID0206,2023-08-11,Homicide,Montego Bay,3.0
+CID0159,2023-03-09,Burglary,Kingston,2.0
+CID0959,2023-06-03,Robbery,Port Antonio,1.0
+CID0193,2023-02-19,Robbery,Port Antonio,5.0
+CID0600,2023-07-11,Robbery,Negril,4.0
+CID0431,2023-10-20,Burglary,Montego Bay,2.0
+CID0543,2023-05-28,Assault,Port Antonio,3.0
+CID0497,2023-06-14,Assault,Port Antonio,1.0
+CID0844,2023-10-04,Robbery,Montego Bay,1.0
+CID0815,2023-11-07,Assault,Port Antonio,4.0
+CID0850,2023-11-01,Robbery,Port Antonio,1.0
+CID0481,2023-09-01,Robbery,Port Antonio,4.0
+CID0208,2023-08-20,Homicide,Kingston,1.0
+CID0418,2023-06-08,Robbery,Kingston,1.0
+CID0770,2023-02-26,Burglary,Negril,2.0
+CID0942,2023-10-16,Fraud,Negril,2.0
+CID0860,2023-11-19,Homicide,Ocho Rios,1.0
+CID0948,2023-05-07,Assault,Negril,5.0
+CID0143,2023-04-26,Fraud,Montego Bay,1.0
+CID0581,2023-08-15,Burglary,Kingston,3.0
+CID0439,2023-12-07,Assault,Negril,2.0
+CID0556,2023-08-23,Robbery,Port Antonio,5.0
+CID0078,2023-02-05,Fraud,Negril,3.0
+CID0068,2023-03-08,Robbery,Montego Bay,5.0
+CID0919,2023-02-05,Assault,Ocho Rios,3.0
+CID0551,2023-11-03,Robbery,Port Antonio,2.0
+CID0790,2023-01-10,Assault,Kingston,2.0
+CID0990,2023-07-05,Homicide,Negril,3.0
+CID0183,2023-06-02,Fraud,Montego Bay,3.0
+CID0642,2023-10-17,Fraud,Kingston,1.0
+CID0560,2023-12-10,Assault,Ocho Rios,1.0
+CID0015,2023-12-18,Burglary,Ocho Rios,1.0
+CID0772,2023-05-18,Homicide,Kingston,1.0
+CID0651,2023-03-15,Assault,Negril,5.0
+CID0414,2023-07-09,Robbery,Port Antonio,2.0
+CID0273,2023-08-12,Burglary,Negril,4.0
+CID0726,2023-04-13,Burglary,Montego Bay,5.0
+CID0580,2023-09-18,Assault,Port Antonio,5.0
+CID0234,2023-11-14,Fraud,Kingston,5.0
+CID0354,2023-03-26,Burglary,Port Antonio,2.0
+CID0877,2023-11-09,Robbery,Port Antonio,2.0
+CID0423,2023-01-20,Assault,Montego Bay,1.0
+CID0720,2023-11-14,Robbery,Negril,3.0
+CID0446,2023-02-26,Robbery,Kingston,1.0
+CID0519,2023-05-02,Burglary,Montego Bay,4.0
+CID0184,2023-01-19,Fraud,Kingston,3.0
+CID0593,2023-03-16,Assault,Negril,4.0
+CID0005,2023-12-04,Homicide,Ocho Rios,4.0
+CID0973,2023-02-14,Robbery,Negril,5.0
+CID0440,2023-02-19,Burglary,Montego Bay,5.0
+CID0847,2023-01-24,Assault,Montego Bay,4.0
+CID0128,2023-06-01,Robbery,Negril,3.0
+CID0369,2023-05-15,Homicide,Montego Bay,3.0
+CID0626,2023-10-26,Assault,Negril,4.0
+CID0876,2023-07-11,Assault,Port Antonio,1.0
+CID0525,2023-05-16,Homicide,Montego Bay,5.0
+CID0757,2023-09-12,Assault,Ocho Rios,2.0
+CID0630,2023-09-14,Fraud,Port Antonio,1.0
+CID0151,2023-11-21,Fraud,Ocho Rios,4.0
+CID0413,2023-07-09,Robbery,Kingston,1.0
+CID0289,2023-06-24,Burglary,Kingston,4.0
+CID0006,2023-11-24,Homicide,Negril,5.0
+CID0239,2023-12-15,Burglary,Montego Bay,2.0
+CID0493,2023-04-10,Burglary,Montego Bay,3.0
+CID0381,2023-08-14,Robbery,Kingston,1.0
+CID0498,2023-12-18,Homicide,Kingston,4.0
+CID0217,2023-09-23,Fraud,Negril,5.0
+CID0748,2023-11-02,Assault,Ocho Rios,4.0
+CID0738,2023-05-25,Burglary,Ocho Rios,3.0
+CID0853,2023-11-04,Homicide,Montego Bay,3.0
+CID0333,2023-04-22,Burglary,Kingston,4.0
+CID0873,2023-08-13,Assault,Montego Bay,1.0
+CID0566,2023-11-26,Assault,Port Antonio,2.0
+CID0092,2023-07-06,Robbery,Negril,4.0
+CID0282,2023-07-22,Assault,Kingston,3.0
+CID0565,2023-11-19,Robbery,Negril,3.0
+CID0396,2023-08-01,Fraud,Ocho Rios,4.0
+CID0198,2023-10-19,Robbery,Ocho Rios,4.0
+CID0880,2023-02-03,Assault,Negril,5.0
+CID0071,2023-12-19,Homicide,Negril,4.0
+CID0537,2023-02-18,Fraud,Ocho Rios,1.0
+CID0456,2023-07-12,Fraud,Kingston,4.0
+CID0486,2023-04-23,Homicide,Kingston,4.0
+CID0514,2023-04-10,Homicide,Montego Bay,5.0
+CID0123,2023-11-21,Burglary,Negril,1.0
+CID0133,2023-11-02,Assault,Port Antonio,5.0
+CID0351,2023-08-02,Assault,Port Antonio,1.0
+CID0896,2023-02-19,Robbery,Montego Bay,2.0
+CID0629,2023-09-01,Homicide,Ocho Rios,4.0
+CID0291,2023-10-17,Burglary,Ocho Rios,5.0
+CID0547,2023-10-24,Burglary,Kingston,3.0
+CID0916,2023-03-28,Robbery,Port Antonio,4.0
+CID0121,2023-04-23,Assault,Port Antonio,3.0
+CID0707,2023-07-20,Burglary,Montego Bay,1.0
+CID0287,2023-01-04,Burglary,Montego Bay,1.0
+CID0941,2023-11-22,Assault,Port Antonio,1.0
+CID0188,2023-02-28,Fraud,Kingston,2.0
+CID0865,2023-09-20,Fraud,Negril,1.0
+CID0652,2023-09-16,Assault,Ocho Rios,2.0
+CID0191,2023-11-28,Assault,Ocho Rios,1.0
+CID0717,2023-03-03,Burglary,Port Antonio,2.0
+CID0142,2023-10-16,Fraud,Ocho Rios,2.0
+CID0945,2023-04-13,Homicide,Kingston,3.0
+CID0230,2023-11-21,Assault,Negril,1.0
+CID0884,2023-06-26,Robbery,Montego Bay,3.0
+CID0075,2023-09-16,Fraud,Montego Bay,5.0
+CID0666,2023-08-02,Fraud,Negril,5.0
+CID0681,2023-11-28,Robbery,Ocho Rios,3.0
+CID0430,2023-06-06,Fraud,Negril,2.0
+CID0156,2023-04-07,Burglary,Kingston,2.0
+CID0739,2023-04-20,Fraud,Port Antonio,1.0
+CID0782,2023-09-11,Homicide,Montego Bay,5.0
+CID0585,2023-10-09,Homicide,Kingston,3.0
+CID0634,2023-03-16,Homicide,Ocho Rios,4.0
+CID0464,2023-08-15,Burglary,Ocho Rios,4.0
+CID0471,2023-08-19,Assault,Ocho Rios,3.0
+CID0018,2023-05-26,Burglary,Kingston,4.0
+CID0014,2023-12-21,Homicide,Port Antonio,2.0
+CID0099,2023-11-17,Homicide,Kingston,1.0
+CID0195,2023-10-02,Assault,Negril,3.0
+CID0552,2023-03-08,Homicide,Port Antonio,3.0
+CID0735,2023-12-02,Robbery,Montego Bay,3.0
+CID0760,2023-03-09,Homicide,Montego Bay,4.0
+CID0141,2023-12-19,Burglary,Montego Bay,3.0
+CID0166,2023-04-06,Burglary,Montego Bay,1.0
+CID0561,2023-12-28,Burglary,Kingston,4.0
+CID0219,2023-11-17,Burglary,Negril,2.0
+CID0691,2023-02-14,Homicide,Ocho Rios,5.0
+CID0591,2023-05-19,Assault,Port Antonio,1.0
+CID0454,2023-07-27,Fraud,Port Antonio,2.0
+CID0100,2023-10-07,Assault,Negril,5.0
+CID0447,2023-10-26,Homicide,Port Antonio,1.0
+CID0380,2023-06-18,Homicide,Port Antonio,2.0
+CID0806,2023-08-15,Fraud,Port Antonio,4.0
+CID0162,2023-09-04,Fraud,Negril,3.0
+CID0983,2023-02-17,Fraud,Montego Bay,5.0
+CID0762,2023-05-24,Burglary,Ocho Rios,3.0
+CID0355,2023-08-22,Homicide,Kingston,1.0
+CID0704,2023-03-06,Fraud,Kingston,3.0
+CID0199,2023-09-11,Homicide,Kingston,1.0
+CID0125,2023-09-15,Homicide,Montego Bay,5.0
+CID0665,2023-11-05,Fraud,Negril,1.0
+CID0394,2023-08-08,Fraud,Ocho Rios,1.0
+CID0745,2023-11-22,Assault,Negril,3.0
+CID0562,2023-08-03,Assault,Ocho Rios,4.0
+CID0918,2023-11-13,Fraud,Kingston,1.0
+CID0520,2023-01-18,Assault,Port Antonio,2.0
+CID0420,2023-11-02,Homicide,Port Antonio,1.0
+CID0376,2023-07-23,Assault,Kingston,3.0
+CID0466,2023-12-19,Robbery,Port Antonio,2.0
+CID0871,2023-08-08,Fraud,Negril,4.0
+CID0647,2023-01-10,Burglary,Negril,4.0
+CID0247,2023-09-05,Homicide,Ocho Rios,5.0
+CID0875,2023-02-11,Homicide,Negril,4.0
+CID0829,2023-03-05,Homicide,Ocho Rios,3.0
+CID0954,2023-03-05,Homicide,Kingston,4.0
+CID0116,2023-09-06,Assault,Negril,4.0
+CID0612,2023-09-27,Homicide,Montego Bay,5.0
+CID0937,2023-05-07,Homicide,Kingston,4.0
+CID0368,2023-11-08,Assault,Port Antonio,3.0
+CID0179,2023-05-07,Robbery,Kingston,3.0
+CID0053,2023-08-13,Homicide,Ocho Rios,5.0
+CID0614,2023-09-15,Robbery,Port Antonio,2.0
+CID0406,2023-02-21,Homicide,Ocho Rios,5.0
+CID0858,2023-02-05,Burglary,Negril,3.0
+CID0359,2023-12-17,Fraud,Port Antonio,2.0
+CID0411,2023-04-15,Fraud,Montego Bay,1.0
+CID0310,2023-05-18,Homicide,Negril,3.0
+CID0807,2023-04-28,Burglary,Port Antonio,3.0
+CID0278,2023-06-09,Fraud,Port Antonio,3.0
+CID0030,2023-08-18,Homicide,Negril,1.0
+CID0171,2023-01-13,Burglary,Montego Bay,1.0
+CID0429,2023-05-25,Robbery,Ocho Rios,5.0
+CID0061,2023-05-03,Assault,Ocho Rios,3.0
+CID0911,2023-12-09,Burglary,Port Antonio,2.0
+CID0586,2023-01-03,Fraud,Kingston,2.0
+CID0909,2023-09-01,Robbery,Kingston,3.0
+CID0915,2023-06-01,Assault,Port Antonio,4.0
+CID0037,2023-02-02,Burglary,Kingston,1.0
+CID0390,2023-07-18,Robbery,Kingston,4.0
+CID0383,2023-07-13,Homicide,Ocho Rios,3.0
+CID0249,2023-01-10,Fraud,Ocho Rios,2.0
+CID0897,2023-09-07,Homicide,Port Antonio,3.0
+CID0989,2023-05-02,Robbery,Port Antonio,3.0
+CID0506,2023-09-25,Fraud,Montego Bay,4.0
+CID0468,2023-04-27,Robbery,Montego Bay,4.0
+CID0256,2023-07-20,Assault,Ocho Rios,5.0
+CID0955,2023-07-18,Homicide,Ocho Rios,5.0
+CID0811,2023-06-02,Robbery,Kingston,1.0
+CID0090,2023-11-11,Assault,Port Antonio,1.0
+CID0181,2023-12-18,Homicide,Ocho Rios,1.0
+CID0307,2023-05-22,Fraud,Negril,5.0
+CID0263,2023-07-26,Homicide,Port Antonio,2.0
+CID0374,2023-02-05,Homicide,Negril,4.0
+CID0055,2023-12-18,Robbery,Montego Bay,4.0
+CID0622,2023-03-10,Fraud,Montego Bay,4.0
+CID0203,2023-05-13,Homicide,Kingston,2.0
+CID0227,2023-05-20,Robbery,Port Antonio,5.0
+CID0706,2023-10-28,Robbery,Ocho Rios,4.0
+CID0106,2023-02-12,Homicide,Negril,3.0
+CID0299,2023-12-22,Burglary,Montego Bay,1.0
+CID0924,2023-07-15,Homicide,Kingston,2.0
+CID0349,2023-03-26,Assault,Montego Bay,4.0
+CID0455,2023-08-04,Homicide,Port Antonio,1.0
+CID0442,2023-11-08,Burglary,Negril,1.0
+CID0763,2023-06-26,Homicide,Negril,5.0
+CID0460,2023-03-24,Burglary,Montego Bay,2.0
+CID0387,2023-08-01,Robbery,Montego Bay,4.0
+CID0641,2023-07-07,Robbery,Montego Bay,5.0
+CID0906,2023-09-25,Fraud,Negril,2.0
+CID0823,2023-09-07,Homicide,Port Antonio,5.0
+CID0524,2023-01-19,Fraud,Montego Bay,4.0
+CID0300,2023-04-12,Burglary,Negril,5.0
+CID0550,2023-04-09,Homicide,Kingston,2.0
+CID0980,2023-06-25,Homicide,Negril,5.0
+CID0789,2023-03-02,Fraud,Port Antonio,2.0
+CID0733,2023-10-28,Robbery,Montego Bay,5.0
+CID0874,2023-07-24,Fraud,Kingston,3.0
+CID0474,2023-01-16,Burglary,Negril,4.0
+CID0787,2023-05-21,Fraud,Kingston,1.0
+CID0800,2023-07-21,Burglary,Ocho Rios,3.0
+CID0271,2023-08-08,Homicide,Montego Bay,5.0
+CID0258,2023-04-28,Robbery,Kingston,4.0
+CID0716,2023-11-18,Fraud,Port Antonio,5.0
+CID0185,2023-08-17,Fraud,Kingston,2.0
+CID0400,2023-03-27,Burglary,Port Antonio,3.0
+CID0357,2023-10-11,Robbery,Montego Bay,5.0
+CID0894,2023-05-20,Assault,Ocho Rios,4.0
+CID0888,2023-06-22,Burglary,Kingston,2.0
+CID0021,2023-07-11,Fraud,Ocho Rios,4.0
+CID0895,2023-05-12,Fraud,Kingston,2.0
+CID0437,2023-10-22,Robbery,Negril,1.0
+CID0049,2023-02-20,Burglary,Kingston,1.0
+CID0382,2023-01-07,Homicide,Montego Bay,4.0
+CID0822,2023-02-27,Robbery,Negril,2.0
+CID0252,2023-04-22,Robbery,Port Antonio,1.0
+CID0330,2023-11-21,Robbery,Kingston,2.0
+CID0161,2023-02-15,Robbery,Kingston,5.0
+CID0176,2023-09-22,Homicide,Port Antonio,5.0
+CID0453,2023-01-28,Robbery,Kingston,4.0
+CID0269,2023-07-28,Robbery,Negril,4.0
+CID0646,2023-09-09,Fraud,Port Antonio,2.0
+CID0891,2023-11-25,Fraud,Ocho Rios,1.0
+CID0172,2023-05-26,Robbery,Kingston,3.0
+CID0010,2023-02-07,Robbery,Ocho Rios,2.0
+CID0824,2023-10-07,Fraud,Kingston,3.0
+CID0196,2023-10-03,Assault,Port Antonio,2.0
+CID0663,2023-07-13,Fraud,Ocho Rios,3.0
+CID0496,2023-09-17,Robbery,Montego Bay,1.0
+CID0013,2023-09-07,Robbery,Port Antonio,2.0
+CID0478,2023-05-11,Homicide,Ocho Rios,1.0
+CID0086,2023-01-22,Assault,Port Antonio,5.0
+CID0296,2023-01-17,Burglary,Negril,5.0
+CID0943,2023-09-22,Fraud,Port Antonio,2.0
+CID0917,2023-03-19,Assault,Port Antonio,3.0
+CID0788,2023-07-04,Robbery,Ocho Rios,3.0
+CID0186,2023-09-06,Robbery,Negril,5.0
+CID0147,2023-11-14,Robbery,Montego Bay,1.0
+CID0028,2023-05-26,Robbery,Kingston,2.0
+CID0910,2023-10-22,Assault,Negril,2.0
+CID0033,2023-05-27,Burglary,Port Antonio,4.0
+CID0167,2023-07-16,Fraud,Ocho Rios,5.0
+CID0036,2023-04-23,Fraud,Port Antonio,4.0
+CID0066,2023-11-15,Assault,Port Antonio,3.0
+CID0536,2023-02-08,Burglary,Port Antonio,2.0
+CID0017,2023-08-19,Robbery,Kingston,4.0
+CID0433,2023-02-25,Fraud,Montego Bay,5.0
+CID0794,2023-07-15,Assault,Port Antonio,5.0
+CID0583,2023-01-14,Homicide,Montego Bay,3.0
+CID0785,2023-11-27,Assault,Ocho Rios,3.0
+CID0436,2023-01-10,Assault,Montego Bay,5.0
+CID0242,2023-01-04,Robbery,Montego Bay,2.0
+CID0658,2023-04-19,Fraud,Kingston,2.0
+CID0957,2023-09-18,Robbery,Kingston,2.0
+CID0293,2023-10-07,Assault,Montego Bay,3.0
+CID0759,2023-05-27,Homicide,Kingston,5.0
+CID0213,2023-06-03,Burglary,Kingston,5.0
+CID0339,2023-02-15,Fraud,Montego Bay,3.0
+CID0845,2023-08-17,Assault,Montego Bay,5.0
+CID0218,2023-05-20,Burglary,Kingston,5.0
+CID0934,2023-11-14,Burglary,Port Antonio,5.0
+CID0972,2023-12-12,Robbery,Kingston,3.0
+CID0091,2023-02-10,Homicide,Montego Bay,3.0
+CID0709,2023-08-19,Fraud,Montego Bay,1.0
+CID0635,2023-12-10,Fraud,Port Antonio,4.0
+CID0698,2023-01-10,Burglary,Kingston,5.0
+CID0902,2023-02-25,Homicide,Montego Bay,2.0
+CID0722,2023-08-28,Assault,Ocho Rios,5.0
+CID0226,2023-03-09,Assault,Montego Bay,1.0
+CID0517,2023-01-23,Homicide,Ocho Rios,2.0
+CID0124,2023-06-15,Homicide,Port Antonio,3.0
+CID0736,2023-10-24,Assault,Ocho Rios,4.0
+CID0212,2023-05-05,Homicide,Kingston,5.0
+CID0346,2023-12-01,Fraud,Negril,1.0
+CID0479,2023-05-20,Homicide,Kingston,2.0
+CID0064,2023-04-21,Fraud,Montego Bay,2.0
+CID0096,2023-03-17,Robbery,Ocho Rios,3.0
+CID0297,2023-09-22,Assault,Ocho Rios,4.0
+CID0020,2023-03-23,Assault,Port Antonio,1.0
+CID0570,2023-03-09,Fraud,Port Antonio,4.0
+CID0268,2023-12-04,Homicide,Port Antonio,2.0
+CID0450,2023-11-12,Burglary,Montego Bay,4.0
+CID0827,2023-10-01,Homicide,Ocho Rios,1.0
+CID0375,2023-03-08,Assault,Port Antonio,1.0
+CID0584,2023-12-11,Homicide,Kingston,1.0
+CID0773,2023-02-15,Fraud,Port Antonio,1.0
+CID0518,2023-09-05,Assault,Port Antonio,1.0
+CID0572,2023-01-06,Burglary,Negril,1.0
+CID0769,2023-09-12,Robbery,Montego Bay,4.0
+CID0384,2023-10-23,Fraud,Montego Bay,5.0
+CID0755,2023-07-06,Fraud,Kingston,4.0
+CID0146,2023-02-04,Fraud,Montego Bay,4.0
+CID0164,2023-09-27,Burglary,Port Antonio,5.0
+CID0907,2023-10-20,Homicide,Montego Bay,4.0
+CID0312,2023-07-22,Homicide,Port Antonio,5.0
+CID0754,2023-06-24,Robbery,Montego Bay,1.0
+CID0933,2023-05-15,Burglary,Kingston,2.0
+CID0969,2023-07-01,Fraud,Port Antonio,1.0
+CID0693,2023-11-23,Burglary,Negril,1.0
+CID0793,2023-09-05,Homicide,Montego Bay,4.0
+CID0837,2023-03-09,Homicide,Kingston,3.0
+CID0904,2023-04-26,Fraud,Port Antonio,3.0
+CID0103,2023-09-01,Assault,Ocho Rios,3.0
+CID0462,2023-05-20,Fraud,Negril,5.0
+CID0322,2023-11-11,Assault,Negril,2.0
+CID0712,2023-05-15,Fraud,Negril,4.0
+CID0544,2023-10-14,Burglary,Montego Bay,5.0
+CID0262,2023-12-11,Assault,Port Antonio,3.0
+CID0740,2023-06-08,Fraud,Port Antonio,4.0
+CID0391,2023-12-24,Robbery,Negril,5.0
+CID0482,2023-09-07,Robbery,Negril,3.0
+CID0892,2023-07-28,Fraud,Kingston,3.0
+CID0862,2023-06-13,Fraud,Negril,3.0
+CID0686,2023-09-02,Homicide,Port Antonio,2.0
+CID0696,2023-05-01,Robbery,Kingston,3.0
+CID0008,2023-10-14,Robbery,Kingston,4.0
+CID0428,2023-08-23,Fraud,Montego Bay,1.0
+CID0855,2023-08-03,Burglary,Negril,1.0
+CID0922,2023-12-17,Robbery,Negril,4.0
+CID0153,2023-01-13,Burglary,Negril,3.0
+CID0487,2023-08-21,Robbery,Ocho Rios,1.0
+CID0839,2023-12-14,Robbery,Kingston,3.0
+CID0690,2023-04-24,Robbery,Negril,5.0
+CID0734,2023-11-25,Robbery,Port Antonio,1.0
+CID0362,2023-03-24,Assault,Negril,1.0
+CID0148,2023-06-14,Fraud,Kingston,3.0
+CID0451,2023-02-17,Robbery,Kingston,2.0
+CID0861,2023-09-23,Robbery,Ocho Rios,1.0
+CID0265,2023-12-26,Burglary,Negril,1.0
+CID0111,2023-08-27,Robbery,Kingston,2.0
+CID0403,2023-01-13,Assault,Kingston,4.0
+CID0540,2023-10-08,Burglary,Montego Bay,3.0
+CID0107,2023-05-08,Homicide,Port Antonio,5.0
+CID0235,2023-05-02,Burglary,Negril,4.0
+CID0928,2023-10-20,Robbery,Ocho Rios,1.0
+CID0207,2023-02-01,Robbery,Negril,3.0
+CID0956,2023-12-08,Fraud,Ocho Rios,3.0
+CID0336,2023-01-02,Burglary,Ocho Rios,5.0
+CID0221,2023-09-10,Burglary,Ocho Rios,2.0
+CID0502,2023-05-08,Assault,Port Antonio,5.0
+CID0765,2023-02-05,Robbery,Montego Bay,5.0
+CID0968,2023-05-04,Fraud,Negril,5.0
+CID0967,2023-11-14,Fraud,Negril,4.0
+CID0986,2023-12-27,Homicide,Port Antonio,4.0
+CID0149,2023-07-15,Assault,Ocho Rios,3.0
+CID0905,2023-07-28,Burglary,Kingston,1.0
+CID0804,2023-01-23,Robbery,Negril,5.0
+CID0108,2023-01-08,Fraud,Kingston,5.0
+CID0370,2023-02-23,Robbery,Negril,1.0
+CID0136,2023-06-03,Robbery,Ocho Rios,1.0
+CID0264,2023-11-28,Fraud,Ocho Rios,2.0
+CID0353,2023-02-15,Burglary,Negril,5.0
+CID0023,2023-04-25,Assault,Montego Bay,5.0
+CID0920,2023-12-21,Homicide,Port Antonio,3.0
+CID0270,2023-01-28,Robbery,Kingston,5.0
+CID0563,2023-11-08,Fraud,Montego Bay,3.0
+CID0953,2023-12-14,Homicide,Negril,4.0
+CID0343,2023-07-16,Burglary,Montego Bay,5.0
+CID0596,2023-03-19,Fraud,Ocho Rios,3.0
+CID0842,2023-08-15,Homicide,Kingston,5.0
+CID0232,2023-08-09,Assault,Ocho Rios,4.0
+CID0670,2023-08-04,Burglary,Negril,2.0
+CID0625,2023-01-21,Burglary,Montego Bay,3.0
+CID0408,2023-08-06,Assault,Port Antonio,5.0
+CID0615,2023-07-02,Burglary,Negril,1.0
+CID0768,2023-11-13,Homicide,Kingston,1.0
+CID0801,2023-02-27,Robbery,Port Antonio,1.0
+CID0637,2023-05-14,Assault,Montego Bay,2.0
+CID0913,2023-05-23,Homicide,Ocho Rios,4.0
+CID0280,2023-05-12,Robbery,Ocho Rios,1.0
+CID0833,2023-01-05,Assault,Kingston,5.0
+CID0469,2023-02-09,Homicide,Port Antonio,2.0
+CID0816,2023-11-21,Robbery,Kingston,4.0
+CID0559,2023-04-10,Assault,Negril,4.0
+CID0870,2023-04-14,Assault,Kingston,1.0
+CID0576,2023-08-04,Assault,Port Antonio,4.0
+CID0427,2023-10-07,Assault,Kingston,1.0
+CID0202,2023-06-08,Assault,Ocho Rios,4.0
+CID0854,2023-08-23,Assault,Port Antonio,4.0
+CID0820,2023-03-26,Robbery,Montego Bay,1.0
+CID0510,2023-05-24,Fraud,Montego Bay,5.0
+CID0344,2023-07-08,Homicide,Kingston,5.0
+CID0810,2023-09-21,Robbery,Port Antonio,3.0
+CID0224,2023-02-04,Burglary,Montego Bay,3.0
+CID0228,2023-04-23,Fraud,Port Antonio,1.0
+CID0503,2023-02-24,Assault,Ocho Rios,2.0
+CID0088,2023-11-18,Robbery,Kingston,4.0
+CID0494,2023-11-19,Fraud,Montego Bay,2.0
+CID0970,2023-06-06,Homicide,Kingston,1.0
+CID0632,2023-02-15,Assault,Negril,4.0
+CID0699,2023-06-12,Assault,Ocho Rios,3.0
+CID0814,2023-08-03,Fraud,Port Antonio,1.0
+CID0883,2023-12-24,Burglary,Ocho Rios,1.0
+CID0432,2023-12-23,Fraud,Port Antonio,4.0
+CID0776,2023-05-19,Assault,Kingston,5.0
+CID0027,2023-06-20,Burglary,Negril,1.0
+CID0594,2023-09-21,Fraud,Negril,2.0
+CID0449,2023-09-14,Assault,Montego Bay,4.0
+CID0004,2023-04-05,Burglary,Kingston,1.0
+CID0940,2023-02-10,Burglary,Port Antonio,5.0
+CID0358,2023-08-20,Fraud,Port Antonio,5.0
+CID0210,2023-02-18,Fraud,Negril,4.0
+CID0557,2023-10-16,Homicide,Negril,4.0
+CID0488,2023-12-16,Homicide,Montego Bay,4.0
+CID0621,2023-05-18,Fraud,Montego Bay,1.0
+CID0702,2023-07-19,Fraud,Kingston,2.0
+CID0115,2023-11-16,Burglary,Port Antonio,2.0
+CID0595,2023-08-09,Homicide,Montego Bay,1.0
+CID0657,2023-04-23,Assault,Port Antonio,4.0
+CID0072,2023-07-19,Burglary,Negril,4.0
+CID0237,2023-03-21,Homicide,Port Antonio,2.0
+CID0085,2023-09-28,Fraud,Negril,5.0
+CID0130,2023-04-19,Burglary,Port Antonio,1.0
+CID0316,2023-05-13,Fraud,Port Antonio,5.0
+CID0589,2023-01-25,Robbery,Montego Bay,2.0
+CID0467,2023-05-11,Assault,Port Antonio,2.0
+CID0923,2023-04-13,Burglary,Negril,1.0
+CID0031,2023-02-13,Burglary,Port Antonio,5.0
+CID0095,2023-05-17,Homicide,Ocho Rios,2.0
+CID0792,2023-02-08,Robbery,Kingston,1.0
+CID0756,2023-04-05,Fraud,Negril,5.0
+CID0421,2023-01-08,Homicide,Montego Bay,5.0
+CID0197,2023-07-22,Homicide,Montego Bay,5.0
+CID0732,2023-05-01,Assault,Kingston,4.0
+CID0275,2023-04-08,Robbery,Kingston,5.0
+CID0340,2023-07-21,Robbery,Montego Bay,3.0
+CID0410,2023-07-11,Robbery,Port Antonio,4.0
+CID0152,2023-11-04,Robbery,Kingston,3.0
+CID0283,2023-09-11,Assault,Kingston,4.0
+CID0882,2023-07-04,Robbery,Negril,1.0
+CID0813,2023-04-04,Robbery,Montego Bay,1.0
+CID0254,2023-02-12,Burglary,Kingston,3.0
+CID0489,2023-08-26,Fraud,Negril,4.0
+CID0238,2023-05-06,Assault,Port Antonio,1.0
+CID0309,2023-07-23,Homicide,Montego Bay,5.0
+CID0826,2023-03-26,Burglary,Kingston,4.0
+CID0138,2023-05-22,Assault,Montego Bay,3.0
+CID0639,2023-04-15,Homicide,Port Antonio,5.0
+CID0803,2023-07-09,Fraud,Montego Bay,3.0
+CID0555,2023-01-14,Fraud,Ocho Rios,4.0
+CID0507,2023-12-06,Fraud,Port Antonio,4.0
+CID0367,2023-09-16,Homicide,Negril,3.0
+CID0694,2023-02-15,Burglary,Port Antonio,2.0
+CID0472,2023-10-22,Fraud,Kingston,4.0
+CID0216,2023-08-27,Assault,Ocho Rios,5.0
+CID0797,2023-09-14,Burglary,Kingston,4.0
+CID0981,2023-03-03,Robbery,Negril,3.0
+CID0303,2023-10-11,Fraud,Port Antonio,5.0
+CID0341,2023-10-07,Fraud,Montego Bay,4.0
+CID0700,2023-07-05,Assault,Kingston,3.0
+CID0365,2023-04-27,Homicide,Port Antonio,1.0
+CID0695,2023-03-23,Homicide,Ocho Rios,4.0
+CID0744,2023-12-25,Assault,Kingston,3.0
+CID0326,2023-08-26,Assault,Port Antonio,4.0
+CID0302,2023-11-11,Fraud,Montego Bay,4.0
+CID0713,2023-05-22,Burglary,Ocho Rios,3.0
+CID0476,2023-08-07,Fraud,Port Antonio,5.0
+CID0654,2023-09-25,Homicide,Negril,3.0
+CID0746,2023-03-21,Assault,Ocho Rios,4.0
+CID0899,2023-08-08,Homicide,Port Antonio,5.0
+CID0568,2023-02-18,Assault,Kingston,1.0
